@@ -11,3 +11,6 @@ Black Flag!
 Author
 <br>
 Solche
+
+
+Translations taken from https://woopread.com/
