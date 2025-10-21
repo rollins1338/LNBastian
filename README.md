@@ -13,4 +13,4 @@ Author
 Solche
 
 
-Translations taken from https://woopread.com/
+Translations taken from [Woopread](https://woopread.com/)
