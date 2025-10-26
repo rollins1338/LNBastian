@@ -20,4 +20,6 @@ Author
 Solche
 
 
+# I will start from chapter 1 again I don't wanna finish this absolute masterpiece, peak wtv 😭
+
 Translations taken from [Woopread](https://woopread.com/)
