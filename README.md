@@ -22,4 +22,8 @@ Solche
 
 # I will start from chapter 1 again I don't wanna finish this absolute peak masterpiece  😭
 
+<p align="center">
+  <img src="./assets/Bastian2.webp" alt="Bastian Cover2" style="max-width:100%;height:auto;" />
+  <br>
+
 Translations taken from [Woopread](https://woopread.com/)
